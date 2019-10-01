@@ -1,1 +1,1 @@
-title: "JamStack eCommerce"
+title: JamStack
