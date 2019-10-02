@@ -1,3 +1,5 @@
 ---
-title: JamStack
+logo: 
+name: JamStack
+description: 
 ---
