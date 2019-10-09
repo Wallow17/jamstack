@@ -27,5 +27,5 @@ Spécifications générales
 - Sillets de tête : Compensé en graphite noir, 43mm
 
 - Cordes : D’Addario EXP"
-type: "electrique"
+type: "acoustique"
 ---
