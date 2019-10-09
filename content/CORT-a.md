@@ -8,5 +8,5 @@ fond & éclisses acajou
 manche acajou
 touche & chevalet palissandre
 mécaniques chromées."
-type: "electrique"
+type: "acoustique"
 ---
