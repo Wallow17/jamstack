@@ -22,5 +22,5 @@ Cordes Elixir Nanoweb tirant médium
 Livrée dans une housse GS Mini
 
 Livrée en housse"
-type: "electrique"
+type: "acoustique"
 ---
