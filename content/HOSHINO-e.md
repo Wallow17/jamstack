@@ -2,31 +2,7 @@
 name: "HOSHINO axion label"
 picture: "HOSHINO-e.JPG" 
 price: "1010"
-description: "Nombre de cordes: 7 
-Type de cou: Nitro Wizard-7 
-Articulation du cou: à visser 
-Matériau du cou: Panga Panga / Walnut 
-Finition du cou: Polyuréthane satiné 
-Epaisseur de manche (1ère frette, mm): 19 
-Epaisseur de manche (12ème frette, mm): 21 
-Échelle (pouces): 26,5 
-Échelle (mm): 673 
-Largeur de noix (mm): 48 
-Largeur finale (mm): 68 
-Nombre de frettes: 24 
-Touche: ébène de Macassar 
-Rayon de touche (mm): 400 
-Type de frette: Jumbo Sub Zero traité 
-Incrustation: point blanc déporté 
-Matériau du corps (pour les solides): Érable flammé (5mm) 
-Matériau du corps (pour les solides): Cendres superposées 
-Finition du corps: Polyuréthane satiné 
-Longueur totale (mm): 1016 
-Epaisseur du corps (mm): 44 
-Longueur du corps (mm): 452 
-Largeur du corps (mm): 311 
-Pont: norme Gibraltar II-7 
-Espacement des cordes (mm): 10,8 
+description: "Number of strings: 7 Type of neck: Nitro Wizard-7 Neck joint: screwable Neck material: Panga Panga / Walnut Neck finish: Satin polyurethane Sleeve thickness (1st fret, mm): 19 Sleeve thickness (12th fret, mm): 21 Scale (inches): 26.5 Scale (mm): 673 Walnut width (mm): 48 Final width (mm): 68 Number of frets: 68 Number of frets: 24 Fingerboard: Macassar ebony Fingerboard radius (mm): 400 Fingerboard type: Jumbo Sub Zero treated Inlay: offset white point Body material (for solids): Flamed maple (5mm) Body material (for solids): Overlapping ash Body finish: Satin-finish polyurethane Total length (mm): 1016 Body thickness (mm): 44 Body length (mm): 452 Body width (mm): 311 Bridge: Gibraltar II-7 String spacing (mm): 10.8 
 "
-type: "electrique"
+type: "electric"
 ---
