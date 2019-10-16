@@ -3,10 +3,10 @@ name: "CORT EARTH70 NATURAL OPEN PORES"
 picture: "CORT-a.JPG" 
 price: "198"
 description: "Earth 70
-table épicéa massif
-fond & éclisses acajou
-manche acajou
-touche & chevalet palissandre
-mécaniques chromées."
-type: "acoustique"
+solid spruce top
+back & sides mahogany
+mahogany handle
+fingerboard & easel rosewood
+mechanical chrome plated."
+type: "acoustic"
 ---
