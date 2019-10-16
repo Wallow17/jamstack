@@ -5,7 +5,7 @@ price: "279"
 description: "Are you looking for a very Blues guitar?
 Try a guitar with a mahogany body and sounds so soft that you will have the feeling of returning to the "Golden Age"!
 
-General specifications:
+General specifications
   Table: Massive tropical Khaya 
   Back & Sides: Khaya tropical
   Body: Satin varnish
