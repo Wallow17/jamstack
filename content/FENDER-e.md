@@ -2,11 +2,6 @@
 name: "FENDER Jackson High"
 picture: "FENDER-e.JPG" 
 price: "785"
-description: "Corps: Tilleul
-Forme de caisse: Dinky
-Micro Chevalet: Jackson High Output 7 String Humbucking
-Micro manche: Jackson High Output 7-String Humbucking
-Configuration des micros: H/H
-Sélection des micros: Sélecteur à 3 positions : position 1 : micro chevalet ; position 2 : micros manche et chevalet ; position 3 : micro manche."
-type: "electrique"
+description: "Body: Lime tree Body shape: Dinky Micro Bridge: Jackson High Output 7 String Humbucking Micro Handle: Jackson High Output 7-String Humbucking Microphone configuration: H/H Microphone selection: 3 position selector: position 1 : bridge microphone ; position 2 : bridge and bridge microphone ; position 3 : bridge microphone."
+type: "electric"
 ---
