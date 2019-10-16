@@ -2,30 +2,30 @@
 name: "LAG T90D DREADNOUGHT"
 picture: "LAG-a.JPG" 
 price: "279"
-description: "Vous recherchez une guitare très Blues ?
-Essayez une guitare au corps tout en acajou et aux sonorités si douces que vous allez avoir le sentiment de revenir à « l’Âge d’Or » !
+description: "Are you looking for a very Blues guitar?
+Try a guitar with a mahogany body and sounds so soft that you will have the feeling of returning to the "Golden Age"!
 
-Spécifications générales
+General specifications
 
-- Table : Khaya tropical massif 
-- Dos & Eclisses : Khaya tropical
-- Corps : Vernis satiné
-- Touche & Chevalet : Palissandre d'Indonésie
-- Manche : Khaya tropical,
-- Frettes : 20, silver-nickel, médium
-- Sillet de chevalet : Compensé en graphite noir, 72mm
+- Table: Massive tropical Khaya 
+- Back & Sides: Khaya tropical
+- Body: Satin varnish
+- Fingerboard & Easel: Indonesian rosewood
+- Channel: Tropical Khaya,
+- Rings: 20, silver-nickel, medium
+- Bridge saddle: Black graphite compensated, 72mm
 
-- Manche : Khaya tropical
-- Finition manche : Vernis satin
-- Tige de réglage : Double sens
-- Touche : Palissandre d'Indonésie
-- Frettes : 20 / silver nickel
-- Diapason : 650mm
+- Channel: Tropical Khaya
+- Handle finish: Satin varnish
+- Adjustment rod: Double direction
+- Fingerboard: Indonesian rosewood
+- Rings: 20 / silver nickel
+- Tuning fork: 650mm
 
-- Tête : Khaya tropical
-- Mécaniques : Haute précision / ratio 1;18 / noir satin
-- Sillets de tête : Compensé en graphite noir, 43mm
+- Head: Tropical Khaya
+- Mechanicals: High precision / ratio 1;18 / satin black
+- Head grooves: Black graphite compensated, 43mm
 
-- Cordes : D’Addario EXP"
-type: "acoustique"
+- Strings: From Addario EXP"
+type: "acoustic"
 ---
