@@ -10,16 +10,14 @@ Grand Symphony Guitar
 Tropical mahogany table
 Back and sides in sapele
 Overall length: 36 5/8.
-Purfling black/white/black/black
+Purfling black,white,black,black
 Sapphire handle
 Ebony fingerboard with 20 frets and dot-shaped inlays
-Bucket width 1 11/16".
+Bucket width 1 11-16".
 Chrome mechanics
 Ebony easel
 Turtle scale" protection plate
 Elixir Nanoweb medium pulling Elixir strings
-Supplied in a GS Mini cover
-
-Supplied in a cover"
+Supplied in a GS Mini cover"
 type: "acoustic"
 ---
