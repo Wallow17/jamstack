@@ -2,25 +2,25 @@
 name: "TAYLOR GUITARS GS MINI ACAJOU"
 picture: "TAYLOR-a.JPG" 
 price: "599"
-description: "La TAYLOR GS MINI est une des très bonnes nouveautés de cette année 2010. Présentée au NAMM Show en Californie cet hiver, elle présente une caisse de format Grand Symphony réduite, une table massive acajou tropical, et surtout, la possibilité d'y brancher un micro ES
--GO (vendu séparément) simplement et rapidement !
+description: "The TAYLOR GS MINI is one of the very good new products of this year 2010. Presented at the NAMM Show in California this winter, it features a reduced Grand Symphony box, a massive tropical mahogany table, and above all, the possibility of connecting an ES microphone to it
+-GO (sold separately) simply and quickly!
 
 
-Guitare Grand Symphony
-Table en acajou tropical
-Dos et éclisses en sapele
-Longueur globale : 36 5/8”
-Diapason : 23 1/2”
-Purfling noir/blanc/noir
-Manche en sapele
-Touche en ébène avec 20 frettes et incrustations en forme de points
-Largeur au sillet 1 11/16”
-Mécaniques chromées
-Chevalet en ébène
-Plaque de protection “écailles de tortue”
-Cordes Elixir Nanoweb tirant médium
-Livrée dans une housse GS Mini
+Grand Symphony Guitar
+Tropical mahogany table
+Back and sides in sapele
+Overall length: 36 5/8".
+Tuning fork: 23 1/2" pitch
+Purfling black/white/black/black
+Sapphire handle
+Ebony fingerboard with 20 frets and dot-shaped inlays
+Bucket width 1 11/16".
+Chrome mechanics
+Ebony easel
+Turtle scale" protection plate
+Elixir Nanoweb medium pulling Elixir strings
+Supplied in a GS Mini cover
 
-Livrée en housse"
-type: "acoustique"
+Supplied in a cover"
+type: "acoustic"
 ---
