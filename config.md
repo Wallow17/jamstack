@@ -10,4 +10,5 @@ The hollow body of the guitar, generally called the resonance box, transforms th
 The guitar, easily transportable, is an instrument that accompanies singing in many popular musical genres. Often the singer accompanies himself on his guitar. European classical music has provided a repertoire for guitar; it is also a characteristic flamenco instrument where it accompanies singing and dancing. The Brazilian choro, the mariachi music in Mexico integrate it into ensembles.
 
 Its popularity, already established in recent centuries, has increased with the international distribution of American music in the 20th century: jazz, blues, country, pop, rock, reggae, soul. The guitar is found in modern interpretations of African, Latin or Celtic music. Along with piano, harmonica and violin, it is one of the most widely used instruments in the world."
+telephone: "0800 456 1959"
 ---
