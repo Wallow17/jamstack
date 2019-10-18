@@ -10,7 +10,6 @@ Grand Symphony Guitar
 Tropical mahogany table
 Back and sides in sapele
 Overall length: 36 5/8".
-Tuning fork: 23 1/2" pitch
 Purfling black/white/black/black
 Sapphire handle
 Ebony fingerboard with 20 frets and dot-shaped inlays
