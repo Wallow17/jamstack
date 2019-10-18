@@ -9,7 +9,7 @@ description: "The TAYLOR GS MINI is one of the very good new products of this ye
 Grand Symphony Guitar
 Tropical mahogany table
 Back and sides in sapele
-Overall length: 36 5/8".
+Overall length: 36 5/8.
 Purfling black/white/black/black
 Sapphire handle
 Ebony fingerboard with 20 frets and dot-shaped inlays
