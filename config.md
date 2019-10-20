@@ -1,4 +1,5 @@
 ---
+layout: 1
 logo: "https://i.pinimg.com/originals/63/65/f4/6365f400045be3aeb831790f1903ce45.png"
 name: Git-ard
 description: "The guitar is a plucked string instrument. The strings are arranged parallel to the soundboard and neck, usually cut off from frets, on which the strings are supported with one hand to produce different notes. The other hand pinches the strings, either with the nails and fingertips or with a plectrum (or mediator). The guitar most often has six strings.
