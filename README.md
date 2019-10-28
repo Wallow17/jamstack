@@ -17,7 +17,7 @@ dossier "content". Renseigner ensuite le fichier par les caractéristiques du pr
 l'image). Pour les images il vous faut renseigner le nom de l'image et sauvegarder celle-ci dans le dossier "img".
 
 4- Vous pouvez désormais lancer le site en utilisant yarn et gatsby. Pour cela dans votre terminal apres vous être déplacé 
-dans le dossier jamstack entrer la commande "yarn" puis "gatsby build" pour lancer le site
+dans le dossier jamstack entrer la commande `yarn` puis `gatsby build` pour lancer le site
 
 5- Regarder le resultat en vous rendant sur l'adress localhost:8000/
 
